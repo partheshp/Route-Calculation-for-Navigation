@@ -1,0 +1,17 @@
+16
+0 WVG
+1 WVH
+2 KA
+3 LA
+4 HO
+5 WI
+6 ME
+7 NI 
+8 DA
+9 SN
+10 BN 
+11 CB
+12 RI
+13 DG
+14 CH
+15 FR
